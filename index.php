@@ -64,7 +64,7 @@
                                 <?php
                                     }
                                     }else{
-                                        echo '<h5>Nnehum usuário encontrado.</h5>';
+                                        echo '<h5>Nenhum usuário encontrado.</h5>';
                                     }
                                 ?>
                             </tbody>
